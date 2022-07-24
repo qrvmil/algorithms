@@ -1,1 +1,3 @@
 # algorithms
+BACKTRACING
+рекурсия + комбинаторика
